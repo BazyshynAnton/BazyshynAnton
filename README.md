@@ -22,7 +22,7 @@ I am the Front-end developer with 1.5 years of non-commercial experience who imp
 ### 🔲 Graphics Programming Technology Stack
 <div>
     <img align="left" alt="react.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="left" alt="opengl" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+    <img align="left" alt="opengl" width="120px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a12e26f3-10c2-40dd-9b5c-221a0c5e2e02" />
 </div>  
 <br/>
 <br/>
