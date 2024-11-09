@@ -72,5 +72,4 @@ I am the Front-end developer with 1.5 years of non-commercial experience who imp
 
 ### 📈 Statistic
 
-<p><img align="left" style="padding-right:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=bazyshynanton&" alt="bazyshynanton" /></p>
 <p><img align="left" sstyle="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazyshynanton&show_icons=true&locale=en&layout=compact" alt="bazyshynanton" /></p>
