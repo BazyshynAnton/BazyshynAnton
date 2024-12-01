@@ -1,6 +1,6 @@
 # 📚 Bazyshyn Anton
 
-I am a Front-end developer with 1.5 years of non-commercial experience who improves himself by investing 12 hours a day. Great ambitions allow me to cope with the most difficult tasks and solve complex problems. I put my heart and soul into all kinds of projects and write code with great enthusiasm. I practice with my pet-projects every day, which means that I have a great desire to develop as a Front-end developer.
+I am a Front-end developer with 1.5+ years of non-commercial experience who improves himself by investing 12 hours a day. Great ambitions allow me to cope with the most difficult tasks and solve complex problems. I put my heart and soul into all kinds of projects and write code with great enthusiasm. I practice with my pet-projects every day, which means that I have a great desire to develop as a Front-end developer.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/anton-bazyshyn-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
