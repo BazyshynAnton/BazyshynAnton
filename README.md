@@ -60,7 +60,7 @@ I am a Front-end developer with 1.5+ years of non-commercial experience who impr
         <img align='left' width="65px" style="padding-right:25px;" src='https://github.com/BazyshynAnton/Umbrella.corp/assets/120124298/99c2b3b5-2fdb-404c-b683-7be8639a9d73'/>
     </a>
     <a href="https://jdmarket.vercel.app/">
-        <img align='left' width="180px" style="padding-right:20px;" src='https://github.com/BazyshynAnton/JDM/assets/120124298/f70f6269-7b98-4684-bfd8-99a472041e65' />
+        <img align='left' width="190px" style="padding-right:20px;" src='https://github.com/BazyshynAnton/JDM/assets/120124298/f70f6269-7b98-4684-bfd8-99a472041e65' />
     </a>
 </div>
 <br/>  
