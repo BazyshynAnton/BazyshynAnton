@@ -54,7 +54,7 @@ I am a Front-end developer with 2 years of non-commercial experience who improve
 
 <div style="display:flex;">
     <a href="https://initial-d-wiki.vercel.app/">
-        <img align='left' width="180px" style="padding-right:20px;" src='https://github.com/user-attachments/assets/1529943b-de24-4c1f-8f2e-72be76c6aa08' />
+        <img align='left' width="80px" style="padding-right:20px;" src='https://github.com/user-attachments/assets/409021a2-9871-40a8-8e06-67ed4ca5ae40' />
     </a>
     <a href="https://umbrella-corp.vercel.app/">
         <img align='left' width="65px" style="padding-right:25px;" src='https://github.com/BazyshynAnton/Umbrella.corp/assets/120124298/99c2b3b5-2fdb-404c-b683-7be8639a9d73'/>
@@ -63,6 +63,7 @@ I am a Front-end developer with 2 years of non-commercial experience who improve
         <img align='left' width="190px" style="padding-right:20px;" src='https://github.com/BazyshynAnton/JDM/assets/120124298/f70f6269-7b98-4684-bfd8-99a472041e65' />
     </a>
 </div>
+
 <br/>  
 <br/>  
 <br/>  
