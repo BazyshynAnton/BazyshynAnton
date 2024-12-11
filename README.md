@@ -1,7 +1,7 @@
 # 📚 Bazyshyn Anton
 
-Front-end developer with 2 years of experience, who improves himself by spending 12 hours each day studying and writing projects.
-I specialize in React, Next.js development with TypeScript, and JavaScript. Using Redux, OOP or FP, I efficiently separate business logic from UI components and create well-organized code and project structure.
+Front-end developer with 2 years of experience, who improves himself by spending 12 hours each day studying and writing projects.<br/>
+I specialize in React, Next.js development with TypeScript, and JavaScript. Using Redux, OOP or FP, I efficiently separate business logic from UI components and create well-organized code and project structure.<br/>
 My English level is B2 Upper-intermediate, so without a doubt I can communicate with clients and team members.
 
 <div align="center">
