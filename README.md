@@ -1,6 +1,8 @@
 # 📚 Bazyshyn Anton
 
-I am a Front-end developer with 2 years of non-commercial experience who improves himself by investing 12 hours a day. Great ambitions allow me to cope with the most difficult tasks and solve complex problems. I put my heart and soul into all kinds of projects and write code with great enthusiasm. I practice with my pet-projects every day, which means that I have a great desire to develop as a Front-end developer.
+Front-end developer with 2 years of experience, who improves himself by spending 12 hours each day studying and writing projects.
+I specialize in React, Next.js development with TypeScript, and JavaScript. Using Redux, OOP or FP, I efficiently separate business logic from UI components and create well-organized code and project structure.
+My English level is B2 Upper-intermediate, so without a doubt I can communicate with clients and team members.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/anton-bazyshyn-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
